@@ -4,7 +4,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=lokeshwaran1509&label=Profile%20views&color=2da00e&style=flat)
 
 ## 💫 About Me:
-- 👋 Hey there! I’m a curious mind who loves mixing code, creativity, and a bit of chaos to build cool tech stuff.
+
 - 🧠 From smart gadgets to AI magic, I enjoy turning ideas into things that actually work (most of the time 😄).
 - ⚙️ I’m all about real-time, hands-on, let’s-make-it-happen kind of projects.
 - 📡 If it involves sensors, machine learning, or a wild hardware hack — count me in!
